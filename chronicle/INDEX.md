@@ -2,5 +2,6 @@
 
 Newest first. One line per day.
 
+- [2026-05-26](2026-05-26.md) — Full agentic coordination layer restructured. Chronicler skill, chronicle ownership, and daily cron moved into `agentic-practices`. Architecture now cleanly separates meta-coordination from domain repos.
 - [2026-05-23](2026-05-23.md) — Started the Execute AI agent team. Chronicler is live. Moura WhatsApp problem reframed to "amplify Raisa, don't replace her."
 - [2026-05-22](2026-05-22.md) — Moura portal went live in the cloud — Vercel + Render, real magic-link emails via Resend, Shared Drive checklist auto-copy resolved. First Execute AI solution in production.
